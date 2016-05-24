@@ -159,7 +159,7 @@ public class ChannelListAdapter extends RecyclerView.Adapter<ChannelListAdapter.
         @Override
         public void onItemSelected()
         {
-            itemView.setBackgroundColor(Color.LTGRAY);
+            itemView.setBackgroundColor(Color.TRANSPARENT);
         }
 
         @Override
